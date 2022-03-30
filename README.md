@@ -1,2 +1,1 @@
-# streamlit
-kelompok 5 heroku
+# covid-kel-5
